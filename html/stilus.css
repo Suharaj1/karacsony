@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
 
 * {
@@ -12,6 +13,7 @@ html {
 
 .container {
     background-color: rgb(22, 91, 51);
+    font-family: 'Mountains of Christmas', cursive;
     padding-left: 20px;
     padding-bottom: 10px;
     text-align: center;
@@ -53,4 +55,13 @@ p {
 
 img {
     width: 55%;
+}
+
+body {
+    background-color: rgb(248, 178, 41);
+}
+
+h1 {
+    font-family: 'Mountains of Christmas', cursive;
+    text
 }
